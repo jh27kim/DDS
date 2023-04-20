@@ -1,0 +1,20 @@
+# Dataset
+/result*
+/panda_latent_space
+/flamingo_sds
+/flamingo_dds
+
+# Auxillary files
+/dataset_load.py
+
+# Image, checkpoint, database, object files
+*.png
+*.jpeg
+*.jpg
+*.pth
+*.db
+*.obj
+*.vtx
+*.pyc
+__pycache__/
+.out
