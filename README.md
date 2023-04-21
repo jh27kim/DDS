@@ -2,6 +2,10 @@
 
 ## NOTE: This is not official implementation. Some of the details may differ from the original paper. 
 
+Formulation (From the paper)
+<br />
+![image](https://user-images.githubusercontent.com/58447982/233568015-47bcf715-5bd3-42f6-8e3f-ec50022e4176.png)
+
 Implementation of DDS (Delta Denoising Score) from paper \(https://arxiv.org/abs/2304.07090\)
 
 **Input image**
@@ -20,3 +24,6 @@ target prompt: "Stork rollerskating"
 <br />
 <img width="256" alt="image" src="https://user-images.githubusercontent.com/58447982/233566142-5a0c3dac-971e-449a-bd57-5450ddd530b3.png">
 <br />
+
+
+
